@@ -2,7 +2,7 @@
 
 Control a Fujitsu split air conditioner from your phone, using an ESP32 and an IR LED. The ESP32 sends the same infrared commands as the original remote.
 
-<!-- DEMO VIDEO: drag the video file here in GitHub's web editor. -->
+https://github.com/user-attachments/assets/ac481250-3f62-4374-b8d5-64c48e2e1cf2
 
 ![ESP32 IR remote and the phone page](docs/images/setup.jpg)
 
