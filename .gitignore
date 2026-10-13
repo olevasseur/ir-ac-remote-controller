@@ -1,0 +1,17 @@
+# Local firmware config (Wi-Fi credentials, AP password)
+firmware/**/config.h
+secrets.h
+
+# Arduino / PlatformIO build output
+build/
+.pio/
+*.bin
+*.elf
+*.map
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+__pycache__/
